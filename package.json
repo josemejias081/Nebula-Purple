@@ -1,0 +1,28 @@
+{
+  "name": "nebula-purple",
+  "displayName": "Nebula Purple",
+  "description": "Un tema elegante y moderno, inspirado en tonos violeta, con buen contraste y un estilo limpio",
+  "version": "0.0.1",
+  "publisher": "JoseMejiasDesarrolloWEb",
+  "engines": {
+    "vscode": "^1.67.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+  "themes": [
+    {
+      "label": "Nebula Purple Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/nebula-purple-dark.json"
+    },
+    {
+      "label": "Nebula Purple Light",
+      "uiTheme": "vs",
+      "path": "./themes/nebula-purple-light.json"
+    }
+  ]
+},
+  "icon": "sources/icon-logo.png"
+}

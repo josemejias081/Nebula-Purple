@@ -1,0 +1,161 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Nebula Purple Dark",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#222230",
+    "editor.foreground": "#e5e5e5",
+    "sideBar.background": "#222230",
+    "sideBar.foreground": "#e5e5e5",
+    "editorLineNumber.foreground": "#8b7bb0",
+    "editorLineNumber.activeForeground": "#b979f5",
+    "editor.selectionBackground": "#005cbf4d",
+    "editor.lineHighlightBackground": "#9566d04d",
+    "activityBar.background": "#9b51e0",
+    "activityBar.foreground": "#ffffff",
+    "activityBarBadge.background": "#b979f5",
+    "activityBarBadge.foreground": "#222230",
+    "statusBar.background": "#9b51e0",
+    "statusBar.foreground": "#ffffff",
+    "tab.activeBackground": "#b979f5",
+    "tab.activeForeground": "#222230",
+    "tab.inactiveBackground": "#9b51e0",
+    "tab.inactiveForeground": "#ffffff",
+    "button.background": "#9b51e0",
+    "button.foreground": "#ffffff",
+    "editorError.foreground": "#ff0000",
+    "editorWarning.foreground": "#ffce00",
+    "editorInfo.foreground": "#48a9f9",
+    "terminal.background": "#222230",
+    "terminal.foreground": "#e5e5e5",
+    "list.hoverBackground": "#3a3a4d",
+    "list.activeSelectionBackground": "#005cbf",
+    "list.activeSelectionForeground": "#e5e5e5",
+    "input.background": "#2d2d3f",
+    "dropdown.background": "#2d2d3f",
+    "textLink.foreground": "#4caf50",
+    "gitDecoration.untrackedResourceForeground": "#4caf50",
+    "gitDecoration.modifiedResourceForeground": "#1e90ff",
+    "gitDecoration.addedResourceForeground": "#4caf50",
+    "gitDecoration.deletedResourceForeground": "#ff0000",
+    "gitDecoration.ignoredResourceForeground": "#999999",
+    "panel.background": "#1e1e2a",
+    "panel.border": "#2b2b3a",
+    "statusBar.noFolderBackground": "#9b51e0",
+    "editorGroupHeader.tabsBackground": "#1f1f2a",
+    "editorGroup.border": "#2b2b3a"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "keyword.control",
+        "storage.type",
+        "storage.modifier",
+        "entity.name.tag",
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#48a9f9",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.parameter",
+        "support.variable",
+        "entity.other.attribute-name",
+        "meta.selector.css"
+      ],
+      "settings": {
+        "foreground": "#ffdf2d"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template",
+        "support.constant.property-value.css"
+      ],
+      "settings": {
+        "foreground": "#4caf50"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language",
+        "constant.character.escape"
+      ],
+      "settings": {
+        "foreground": "#ffa500"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.separator",
+        "punctuation.terminator",
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#a5a500"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#999999",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#4caf50"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "entity.other.inherited-class",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#ffdf2d"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.selector",
+        "entity.other.pseudo-class"
+      ],
+      "settings": {
+        "foreground": "#ffa500",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": { "fontStyle": "bold" }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": { "fontStyle": "italic" }
+    },
+    {
+      "scope": "variable.language.this",
+      "settings": {
+        "foreground": "#48a9f9"
+      }
+    }
+  ],
+  "semanticHighlighting": true
+}
