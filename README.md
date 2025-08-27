@@ -1,6 +1,6 @@
 # 🌌 Nebula Purple
 
-Un tema elegante y moderno para Visual Studio Code, inspirado en tonos **violeta y púrpura cósmicos**, con buen contraste y un estilo limpio para largas sesiones de desarrollo.
+Un tema elegante y moderno para Visual Studio Code, inspirado en tonos **violeta y púrpura**, con buen contraste y un estilo limpio para largas sesiones de desarrollo.
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)
