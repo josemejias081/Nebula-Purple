@@ -66,11 +66,19 @@
         "scope": [
           "string",
           "string.quoted",
-          "string.template",
-          "support.constant.property-value.css"
+          "string.template"
         ],
         "settings": {
           "foreground": "#4caf50"
+        }
+      },
+      {
+        "scope": [
+          "support.constant.property-value.css"
+        ],
+        "settings": {
+          "foreground": "#ffdf2d",
+          "fontStyle": "italic"
         }
       },
       {
