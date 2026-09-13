@@ -15,20 +15,30 @@
 
 ---
 
-## ✨ Características
+## Características Principales
 
--  **Dos variantes**: `Nebula Purple Dark` y `Nebula Purple Light`  
--  **Paleta inspirada en el espacio**: tonos púrpura, violetas y acentos brillantes  
--  **Buen contraste** pensado para la legibilidad  
--  **Estilo limpio y moderno** que reduce la fatiga visual  
-- ⚡ Ideal para **HTML, CSS, JavaScript, Ruby, Python y más** ---
+- **Doble Variante**: Disfruta de una experiencia optimizada tanto de día como de noche con *Nebula Purple Dark* y *Nebula Purple Light*.
+- **Confort Visual**: Paleta de colores cuidadosamente seleccionada para maximizar el contraste sin cansar la vista.
+- **Multilenguaje**: Soporte optimizado para sintaxis de JavaScript, TypeScript, Python, HTML, CSS, Ruby y más.
+- **Estilo Minimalista**: Interfaz limpia que pone el foco en tu código, eliminando distracciones visuales.
 
-## 🚀 Instalación
+---
 
-### Desde el Marketplace de VS Code (Próximamente)
-1. Abre VS Code  
-2. Ve a la pestaña de **Extensiones** (Ctrl+Shift+X)  
-3. Busca **Nebula Purple** 4. Haz clic en **Instalar** ### Instalación manual
+## Instalación
+
+### ✅ Opción Recomendada: Desde VS Code Marketplace
+
+El tema está publicado, listo para usar:
+
+1. Abre **Visual Studio Code**.
+2. Ve a la pestaña de **Extensiones** (`Ctrl+Shift+X` o `Cmd+Shift+X`).
+3. Busca **"Nebula Purple"**.
+4. Haz clic en **Instalar**.
+
+> **Enlace directo:** [Ver en Marketplace](https://marketplace.visualstudio.com/items?itemName=JoseMejiasDesarrolloWeb.nebula-purple.
+
+
+### Instalación manual
 1. Clona este repositorio o descárgalo en tu máquina:  
     ```bash
     git clone https://github.com/josemejias081/Nebula-Purple.git
@@ -46,21 +56,21 @@
 
 ---
 
-## 📖 Uso
-1. Abre la Paleta de Comandos (Ctrl+Shift+P)
-2. Busca `Preferences: Color Theme`
-3. Selecciona:
-    - 🌑 `Nebula Purple Dark`
-    - ☀️ `Nebula Purple Light`
+## 🎨 Temas Disponibles
+
+Una vez instalado, activa el tema siguiendo estos pasos:
+1. Abre la Paleta de Comandos: `Ctrl+Shift+P` (Windows/Linux) o `Cmd+Shift+P` (macOS).
+2. Escribe: `Preferences: Color Theme`.
+3. Selecciona tu variante favorita:
+
+| Tema | Descripción | Ideal para |
+| :--- | :--- | :--- |
+| 🌑 **Nebula Purple Dark** | Fondo oscuro con acentos violetas brillantes. | Programación nocturna y máximo contraste. |
+| ☀️ **Nebula Purple Light** | Fondo claro con tonos púrpura suaves. | Entornos luminosos y lectura diurna. |
 
 ---
 
-## 📸 Capturas de pantalla
-👉 (Próximamente)
-
----
-
-## 🛠 Desarrollo
+## Desarrollo y contribución
 
 ### Prerrequisitos
 - Node.js
@@ -68,12 +78,14 @@
 - VS Code
 - VSCE
 
-### Ejecutar en modo desarrollo
-1. Clona el repo y abre la carpeta en VS Code
-2. Presiona `F5` para abrir una nueva ventana con el tema cargado
-3. Prueba el tema y ajusta los colores en:
+### ¿Quieres mejorar el tema o reportar un bug? ¡Las contribuciones son bienvenidas!
+1. Haz un Fork del proyecto.
+2. Crea una rama para tu feature (git checkout -b feature/AmazingFeature).
+3. Realiza tus cambios en los archivos JSON dentro de la carpeta themes/.
     - `themes/nebula-purple-dark.json`
     - `themes/nebula-purple-light.json`
+4. Prueba los cambios presionando F5 en VS Code.
+5. Sube tus cambios y crea un Pull Request.
 
 ---
 
@@ -81,9 +93,11 @@
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ---
+<div align="center">
 
 ## 👨‍💻 Autor
-Creado por [José Mejias](https://www.youtube.com/@josemejiasdesarrolloweb)
+Hecho con 💜 por [José Mejias](https://www.youtube.com/@josemejiasdesarrolloweb)
 ---
 
 ⭐ Si te gusta este tema, ¡dale una estrella en GitHub y compártelo!
+</div>
