@@ -1,9 +1,17 @@
 # 🌌 Nebula Purple
 
-Un tema elegante y moderno para Visual Studio Code, inspirado en tonos **violeta y púrpura**, con buen contraste y un estilo limpio para largas sesiones de desarrollo.
+<div align="center">
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE.md)
+![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![VS Code](https://img.shields.io/badge/VS%20Code-%3E%3D1.90.0-purple.svg)
+[![Marketplace](https://img.shields.io/badge/Marketplace-Disponible-brightgreen)](https://marketplace.visualstudio.com/items?itemName=JoseMejiasDesarrolloWEb.nebula-purple)
+
+**Un tema elegante y moderno para Visual Studio Code, inspirado en tonos violeta y púrpura del espacio profundo. Ofrece dos variantes (Dark y Light) con excelente contraste para reducir la fatiga visual en largas sesiones de código. Ideal para desarrolladores que trabajan con HTML, CSS, JavaScript, Python, Ruby y más.**
+
+[📥 Instalar desde Marketplace](https://marketplace.visualstudio.com/items?itemName=JoseMejiasDesarrolloWEb.nebula-purple) • [🐛 Reportar Issue](https://github.com/josemejias081/Nebula-Purple/issues)
+
+</div>
 
 ---
 
