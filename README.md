@@ -56,7 +56,7 @@ El tema está publicado, listo para usar:
 
 ---
 
-## 🎨 Temas Disponibles
+## Temas Disponibles
 
 Una vez instalado, activa el tema siguiendo estos pasos:
 1. Abre la Paleta de Comandos: `Ctrl+Shift+P` (Windows/Linux) o `Cmd+Shift+P` (macOS).
@@ -95,7 +95,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 ---
 <div align="center">
 
-## 👨‍💻 Autor
+## Autor
 Hecho con 💜 por [José Mejias](https://www.youtube.com/@josemejiasdesarrolloweb)
 ---
 
