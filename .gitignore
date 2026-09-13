@@ -1,0 +1,6 @@
+node_modules/ (dependencias)
+*.vsix (archivos compilados)
+.vscode-test/ (tests de VS Code)
+.DS_Store
+Thumbs.db
+Archivos de logs, OS e IDE

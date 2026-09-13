@@ -1,32 +1,52 @@
 {
   "name": "nebula-purple",
   "displayName": "Nebula Purple",
-  "description": "Un tema elegante y moderno, inspirado en tonos violeta, con buen contraste y un estilo limpio",
-  "version": "0.0.1",
+  "description": "Un tema elegante y moderno para Visual Studio Code, inspirado en tonos violeta y púrpura del espacio profundo. Ofrece dos variantes (Dark y Light) con excelente contraste para reducir la fatiga visual en largas sesiones de código. Ideal para desarrolladores que trabajan con HTML, CSS, JavaScript, Python, Ruby y más.",
+  "version": "0.0.2",
   "publisher": "JoseMejiasDesarrolloWEb",
+  "author": "José Mejías",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.67.2"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "purple",
+    "dark theme",
+    "light theme",
+    "nebula",
+    "violet",
+    "modern",
+    "elegant",
+    "space",
+    "cosmic",
+    "productivity",
+    "syntax highlighting"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/josemejias081/Nebula-Purple"
   },
+  "bugs": {
+    "url": "https://github.com/josemejias081/Nebula-Purple/issues"
+  },
+  "homepage": "https://github.com/josemejias081/Nebula-Purple#readme",
   "contributes": {
-  "themes": [
-    {
-      "label": "Nebula Purple Dark",
-      "uiTheme": "vs-dark",
-      "path": "./themes/nebula-purple-dark.json"
-    },
-    {
-      "label": "Nebula Purple Light",
-      "uiTheme": "vs",
-      "path": "./themes/nebula-purple-light.json"
-    }
-  ]
-},
+    "themes": [
+      {
+        "label": "Nebula Purple Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebula-purple-dark.json"
+      },
+      {
+        "label": "Nebula Purple Light",
+        "uiTheme": "vs",
+        "path": "./themes/nebula-purple-light.json"
+      }
+    ]
+  },
   "icon": "sources/icon-logo.png"
 }
